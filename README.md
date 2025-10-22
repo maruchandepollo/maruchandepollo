@@ -28,7 +28,7 @@ I’m always open to new challenges and opportunities that help me improve my sk
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=latex,vscode,github,androidstudio"/> |
 
 </div>
 
@@ -39,7 +39,7 @@ I’m always open to new challenges and opportunities that help me improve my sk
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+<img src="https://skillicons.dev/icons?i=windows,linux"/>
 
 </div>
 
