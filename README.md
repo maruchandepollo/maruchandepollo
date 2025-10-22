@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/86b29357-d0bd-4703-be4e-af2a1235698c" />
+<img width="600" src="https://github.com/user-attachments/assets/d92675a4-c3a1-4341-bbd3-0e75b5575a02" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/maruchandepollo?label=Follow&style=social)](https://github.com/maruchandepollo)
