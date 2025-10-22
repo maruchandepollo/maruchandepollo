@@ -4,7 +4,7 @@
 <div align="center">
 
 <a href="https://github.com/CtorW">
-<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+<img src="https://github.com/user-attachments/assets/86b29357-d0bd-4703-be4e-af2a1235698c" />
 </a>
 
 [![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/maruchandepollo)
@@ -12,9 +12,12 @@
 </div>
 
 
-🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+I’m a programming student with big ambitions to grow professionally and keep learning every day.
+I’m passionate about software development and always looking to gain as much experience as possible by participating in real, collaborative, and innovative projects.
 
-💻 Passionately building an **Arch Installer** project. 
+I’m always open to new challenges and opportunities that help me improve my skills and contribute fresh ideas. 🚀
+
+💡 “Knowledge grows when it’s shared.”
 
 
 <div align="Center">
@@ -25,7 +28,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github"/> |
 
 </div>
 
@@ -51,13 +54,13 @@
 
 <div align="Center">
 
-| CtorW's Stats | Ultimate Streak |
+| maruchan's Stats | Ultimate Streak |
 | ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
+| ![maruchan's Stats](https://github-readme-stats.vercel.app/api?username=maruchandepollo&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![maruchan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maruchandepollo&theme=onedark&hide_border=true) 
 
 | Most Lang |
 | ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| ![maruchan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruchandepollo&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
 
 
 </div>
@@ -69,11 +72,11 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="mailto:shispadelagb@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/krazy.diam0nd"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/krazy.diam0nd](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
 
 ------
 
-Credit: [Ctorw](https://github.com/CtorW)
-Last Edited on: 12/04/2005
+Credit: [maruchandepollo](https://github.com/maruchandepollo)
+Last Edited on: 22/10/2025
