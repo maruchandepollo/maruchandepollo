@@ -7,8 +7,8 @@
 <img src="https://github.com/user-attachments/assets/86b29357-d0bd-4703-be4e-af2a1235698c" />
 </a>
 
-[![GitHub Followers](https://img.shields.io/github/followers/CtorW?label=Follow&style=social)](https://github.com/maruchandepollo)
-[![GitHub Stars](https://img.shields.io/github/stars/CtorW?style=social)](https://github.com/maruchandepollo)
+[![GitHub Followers](https://img.shields.io/github/followers/maruchandepollo?label=Follow&style=social)](https://github.com/maruchandepollo)
+[![GitHub Stars](https://img.shields.io/github/stars/maruchandepollo?style=social)](https://github.com/maruchandepollo)
 </div>
 
 
