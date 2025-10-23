@@ -55,13 +55,13 @@ I’m always open to new challenges and opportunities that help me improve my sk
 
 <div align="Center">
 
-| maruchan's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![maruchan's Stats](https://github-readme-stats.vercel.app/api?username=maruchandepollo&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![maruchan's Streak](https://github-readme-streak-stats.herokuapp.com/?user=maruchandepollo&theme=onedark&hide_border=true) 
+| maruchan's Stats |
+| ------------- |
+| ![maruchan's Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=maruchandepollo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)  
 
 | Most Lang |
 | ----------|
-| ![maruchan's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maruchandepollo&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+| ![maruchan's Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=maruchandepollo&layout=compact&langs_count=8&theme=algolia)) |
 
 
 </div>
