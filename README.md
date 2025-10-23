@@ -72,7 +72,7 @@ I’m always open to new challenges and opportunities that help me improve my sk
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:shispadelagb@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/krazy.diam0nd"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/krazy.diam0nd](https://discord.com/users/538560877155057665)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+| <a href="mailto:shispadelagb@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/krazy.diam0nd"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/krazy.diam0nd]("https://discord.com/users/538560877155057665)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
 
 </div>
 
