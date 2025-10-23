@@ -1,9 +1,10 @@
 <div align="Center">
+<a href="https://open.spotify.com/intl-es/artist/4MCBfE4596Uoi2O4DtmEMz">
 <img width="150" src="https://github.com/user-attachments/assets/ba9fd674-2ace-44bb-bb29-37faa3ee98b4" />
 
 <div align="center">
 
-<a href="https://github.com/maruchandepollo">
+<a href="https://open.spotify.com/intl-es/artist/5K4W6rqBFWDnAN6FQUkS6x">
 <img width="600" src="https://github.com/user-attachments/assets/d92675a4-c3a1-4341-bbd3-0e75b5575a02" />
 </a>
 
