@@ -19,6 +19,7 @@ I’m always open to new challenges and opportunities that help me improve my sk
 
 💡 “Knowledge grows when it’s shared.”
 
+<img width="150" src="https://github.com/user-attachments/assets/b0e19ba3-b2df-4511-9684-57199de7bbb1" />
 
 <div align="Center">
 <h1>Skills</h1>
