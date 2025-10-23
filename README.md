@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<a href="https://github.com/CtorW">
+<a href="https://github.com/maruchandepollo">
 <img width="600" src="https://github.com/user-attachments/assets/d92675a4-c3a1-4341-bbd3-0e75b5575a02" />
 </a>
 
