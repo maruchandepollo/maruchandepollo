@@ -12,6 +12,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/maruchandepollo?style=social)](https://github.com/maruchandepollo)
 </div>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+maruchan!;I'm+a+programming+student...;I'm+Chilean+and+from+Colo-Colo)](https://git.io/typing-svg)
 
 I’m a programming student with big ambitions to grow professionally and keep learning every day.
 I’m passionate about software development and always looking to gain as much experience as possible by participating in real, collaborative, and innovative projects.
