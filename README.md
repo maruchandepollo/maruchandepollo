@@ -16,13 +16,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&lines=Hey!+It's+maruchan!;I'm+a+programming+student...;I+love+Colo-Colo)](https://git.io/typing-svg)
 
-👋 Hey there! I’m a passionate programming student driven by curiosity and ambition. I love turning ideas into reality through code and learning something new every single day.
+👋 𝐻𝑒𝑦 𝑡ℎ𝑒𝑟𝑒.ᐟ 𝐼’𝑚 𝑎 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔 𝑠𝑡𝑢𝑑𝑒𝑛𝑡 𝑑𝑟𝑖𝑣𝑒𝑛 𝑏𝑦 𝑐𝑢𝑟𝑖𝑜𝑠𝑖𝑡𝑦 𝑎𝑛𝑑 𝑎𝑚𝑏𝑖𝑡𝑖𝑜𝑛. 𝐼 𝑙𝑜𝑣𝑒 𝑡𝑢𝑟𝑛𝑖𝑛𝑔 𝑖𝑑𝑒𝑎𝑠 𝑖𝑛𝑡𝑜 𝑟𝑒𝑎𝑙𝑖𝑡𝑦 𝑡ℎ𝑟𝑜𝑢𝑔ℎ 𝑐𝑜𝑑𝑒 𝑎𝑛𝑑 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 𝑛𝑒𝑤 𝑒𝑣𝑒𝑟𝑦 𝑠𝑖𝑛𝑔𝑙𝑒 𝑑𝑎𝑦.
 
-💻 I’m especially passionate about software development, and I’m always looking to grow by contributing to real, creative, and collaborative projects.
+💻 𝐼’𝑚 𝑒𝑠𝑝𝑒𝑐𝑖𝑎𝑙𝑙𝑦 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑎𝑏𝑜𝑢𝑡 𝑠𝑜𝑓𝑡𝑤𝑎𝑟𝑒 𝑑𝑒𝑣𝑒𝑙𝑜𝑝𝑚𝑒𝑛𝑡, 𝑎𝑛𝑑 𝐼’𝑚 𝑎𝑙𝑤𝑎𝑦𝑠 𝑙𝑜𝑜𝑘𝑖𝑛𝑔 𝑡𝑜 𝑔𝑟𝑜𝑤 𝑏𝑦 𝑐𝑜𝑛𝑡𝑟𝑖𝑏𝑢𝑡𝑖𝑛𝑔 𝑡𝑜 𝑟𝑒𝑎𝑙, 𝑐𝑟𝑒𝑎𝑡𝑖𝑣𝑒, 𝑎𝑛𝑑 𝑐𝑜𝑙𝑙𝑎𝑏𝑜𝑟𝑎𝑡𝑖𝑣𝑒 𝑝𝑟𝑜𝑗𝑒𝑐𝑡𝑠.
 
-🚀 I see every challenge as a chance to evolve, share ideas, and keep pushing my limits.
+🚀 𝐼 𝑠𝑒𝑒 𝑒𝑣𝑒𝑟𝑦 𝑐ℎ𝑎𝑙𝑙𝑒𝑛𝑔𝑒 𝑎𝑠 𝑎 𝑐ℎ𝑎𝑛𝑐𝑒 𝑡𝑜 𝑒𝑣𝑜𝑙𝑣𝑒, 𝑠ℎ𝑎𝑟𝑒 𝑖𝑑𝑒𝑎𝑠, 𝑎𝑛𝑑 𝑘𝑒𝑒𝑝 𝑝𝑢𝑠ℎ𝑖𝑛𝑔 𝑚𝑦 𝑙𝑖𝑚𝑖𝑡𝑠.
 
-💡 “If you can imagine it, you can code it...”
+💡 “𝐼𝑓 𝑦𝑜𝑢 𝑐𝑎𝑛 𝑖𝑚𝑎𝑔𝑖𝑛𝑒 𝑖𝑡, 𝑦𝑜𝑢 𝑐𝑎𝑛 𝑐𝑜𝑑𝑒 𝑖𝑡...”
 
 <img width="150" src="https://github.com/user-attachments/assets/b0e19ba3-b2df-4511-9684-57199de7bbb1" />
 
