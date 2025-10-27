@@ -16,12 +16,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&lines=Hey!+It's+maruchan!;I'm+a+programming+student...;I+Love+Colo-Colo)](https://git.io/typing-svg)
 
-I’m a programming student with big ambitions to grow professionally and keep learning every day.
-I’m passionate about software development and always looking to gain as much experience as possible by participating in real, collaborative, and innovative projects.
+👋 Hey there! I’m a passionate programming student driven by curiosity and ambition. I love turning ideas into reality through code and learning something new every single day.
 
-I’m always open to new challenges and opportunities that help me improve my skills and contribute fresh ideas. 🚀
+💻 I’m especially passionate about software development, and I’m always looking to grow by contributing to real, creative, and collaborative projects.
 
-💡 “Knowledge grows when it’s shared.”
+🚀 I see every challenge as a chance to evolve, share ideas, and keep pushing my limits.
+
+💡 “If you can imagine it, you can code it...”
 
 <img width="150" src="https://github.com/user-attachments/assets/b0e19ba3-b2df-4511-9684-57199de7bbb1" />
 
