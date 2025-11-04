@@ -14,7 +14,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&lines=Hey!+It's+maruchan!;I'm+a+programming+student...;I+love+Colo-Colo)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&lines=Hey!+It's+999!;I'm+a+programming+student...;I+love+Colo-Colo)](https://git.io/typing-svg)
 
 👋 𝐻𝑒𝑦 𝑡ℎ𝑒𝑟𝑒.ᐟ 𝐼’𝑚 𝑎 𝑝𝑎𝑠𝑠𝑖𝑜𝑛𝑎𝑡𝑒 𝑝𝑟𝑜𝑔𝑟𝑎𝑚𝑚𝑖𝑛𝑔 𝑠𝑡𝑢𝑑𝑒𝑛𝑡 𝑑𝑟𝑖𝑣𝑒𝑛 𝑏𝑦 𝑐𝑢𝑟𝑖𝑜𝑠𝑖𝑡𝑦 𝑎𝑛𝑑 𝑎𝑚𝑏𝑖𝑡𝑖𝑜𝑛. 𝐼 𝑙𝑜𝑣𝑒 𝑡𝑢𝑟𝑛𝑖𝑛𝑔 𝑖𝑑𝑒𝑎𝑠 𝑖𝑛𝑡𝑜 𝑟𝑒𝑎𝑙𝑖𝑡𝑦 𝑡ℎ𝑟𝑜𝑢𝑔ℎ 𝑐𝑜𝑑𝑒 𝑎𝑛𝑑 𝑙𝑒𝑎𝑟𝑛𝑖𝑛𝑔 𝑠𝑜𝑚𝑒𝑡ℎ𝑖𝑛𝑔 𝑛𝑒𝑤 𝑒𝑣𝑒𝑟𝑦 𝑠𝑖𝑛𝑔𝑙𝑒 𝑑𝑎𝑦.
 
