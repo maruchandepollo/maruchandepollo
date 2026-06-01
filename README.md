@@ -32,16 +32,15 @@
 
 <div align="Center">
 
-| Frontend | Backend & Database |
-| -------- | ------------------ |
+| Frontend | Backend |
+| -------- | ------- |
 | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite"/> | <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,python,mysql"/> |
 
-| Tools & Platforms | Development Environment |
-| ----------------- | ----------------------- |
-| <img src="https://skillicons.dev/icons?i=git,github,postman,notion,mint"/> | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,linux"/> |
+| Tools | Environment |
+| ----- | ----------- |
+| <img src="https://skillicons.dev/icons?i=git,github,postman,notion"/> | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,mint"/> |
 
 </div>
-
 <br>
 <br>
 <br>
