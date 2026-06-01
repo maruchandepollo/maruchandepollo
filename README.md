@@ -27,7 +27,7 @@
 
 💻 Software Developer focused on building web and mobile applications.
 
-🎓 Computer Programming Analyst | Duoc UC.
+🎓 Computer Programming Analyst.
 
 🚀 Passionate about creating practical solutions that solve real business problems through technology.
 
