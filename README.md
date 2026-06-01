@@ -66,7 +66,7 @@
 |----------|------------|--------|
 | 🌿 **EcoStyle** | Landscaping Management Web Application | React • Node.js • MySQL |
 | 👓 **CrimsonEyes** | Mobile Application for Optical Services | Kotlin • Node.js • MySQL |
-| 💊 **FarmaCode** | Pharmaceutical Comparison Platform | React • Node.js |
+| 💊 **FarmaCode** | Pharmaceutical Comparison Mobile App | Kotlin • Firebase |
 | 📦 **Pañol UDD** | Inventory & Warehouse Management System | React • Tailwind • Supabase |
 
 <br>
@@ -97,9 +97,11 @@ Mobile application developed to manage optical services, products and patient in
 
 ## 💊 FarmaCode
 
-**Pharmaceutical Comparison Platform**
+**Pharmaceutical Comparison Mobile Application**
 
-Platform focused on comparing medications and helping users find pharmaceutical alternatives and relevant information.
+Mobile application designed to help users compare medications, consult pharmaceutical information and discover alternative drugs.
+
+**Tech Stack:** Kotlin • Firebase
 
 **Repository**
 
@@ -166,27 +168,10 @@ Professional internship project focused on inventory control, stock management a
 
 <div align="center">
 
-<a href="mailto:spueblah@outlook.cl">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://instagram.com/krazy.diam0nd">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://www.linkedin.com/in/sergio-puebla-hauenstein-304aab39a/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="https://discord.com/users/538560877155057665">
-<img src="https://skillicons.dev/icons?i=discord"/>
-</a>
+<a href="mailto:spueblah@outlook.cl"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+<a href="https://instagram.com/krazy.diam0nd"><img src="https://skillicons.dev/icons?i=instagram"/></a>
+<a href="https://www.linkedin.com/in/sergio-puebla-hauenstein-304aab39a/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://discord.com/users/538560877155057665"><img src="https://skillicons.dev/icons?i=discord"/></a>
 
 </div>
 
