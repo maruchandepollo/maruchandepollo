@@ -43,25 +43,25 @@
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 <div align="center">
 
 | Category | Technologies |
 |-----------|-------------|
-| 🎨 Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite"/> |
-| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,python,spring"/> |
-| 🗄️ Database | <img src="https://skillicons.dev/icons?i=mysql"/> |
-| ☁️ Cloud & DevOps | <img src="https://skillicons.dev/icons?i=docker"/> |
-| 🔧 Tools | <img src="https://skillicons.dev/icons?i=git,github,postman,notion"/> |
-| 💻 Environment | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,mint"/> |
-| 🖥️ Operating Systems | <img src="https://skillicons.dev/icons?i=windows,linux"/> |
+|  Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite"/> |
+|  Backend | <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,python,spring"/> |
+|  Database | <img src="https://skillicons.dev/icons?i=mysql"/> |
+|  Cloud & DevOps | <img src="https://skillicons.dev/icons?i=docker"/> |
+|  Tools | <img src="https://skillicons.dev/icons?i=git,github,postman,notion"/> |
+|  Environment | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,mint"/> |
+|  Operating Systems | <img src="https://skillicons.dev/icons?i=windows,linux"/> |
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 | Project | Description | Stack |
 |----------|------------|--------|
@@ -160,7 +160,7 @@ Professional internship project focused on inventory control, stock management a
 
 ---
 
-# 📈 GitHub Statistics
+#  GitHub Statistics
 
 <div align="center">
 
@@ -174,7 +174,7 @@ Professional internship project focused on inventory control, stock management a
 
 ---
 
-# 🐍 Contributions
+#  Contributions
 
 <div align="center">
 
@@ -184,7 +184,7 @@ Professional internship project focused on inventory control, stock management a
 
 ---
 
-# 📬 Contact
+#  Contact
 
 <div align="center">
 
@@ -203,6 +203,6 @@ Professional internship project focused on inventory control, stock management a
 
 Credit: Anideout
 
-**Last Edited:** 01/06/2026
+**Last Edited:** 03/06/2026
 
 </div>
