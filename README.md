@@ -17,23 +17,23 @@
 
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1200&lines=Hey!+It's+999!;Software+Developer;Building+Real-World+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1200&lines=Hey!+It's+999!;Software+Developer;the+world+and+everything+in+it)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-# 👋 About Me
+#  About Me
 
-💻 Software Developer focused on building web and mobile applications.
+ Software Developer focused on building web and mobile applications.
 
-🎓 Computer Programming Analyst.
+ Computer Programming Analyst.
 
-🚀 Passionate about creating practical solutions that solve real business problems through technology.
+ Passionate about creating practical solutions that solve real business problems through technology.
 
-🌱 Currently improving my knowledge in software architecture, backend development, system design and full-stack technologies.
+ Currently improving my knowledge in software architecture, backend development, system design and full-stack technologies.
 
-💡 *"If you can imagine it, you can code it."*
+ *"If you can imagine it, you can code it."*
 
 <br>
 
@@ -50,8 +50,9 @@
 | Category | Technologies |
 |-----------|-------------|
 | 🎨 Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite"/> |
-| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,python"/> |
+| ⚙️ Backend | <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,python,spring"/> |
 | 🗄️ Database | <img src="https://skillicons.dev/icons?i=mysql"/> |
+| ☁️ Cloud & DevOps | <img src="https://skillicons.dev/icons?i=docker"/> |
 | 🔧 Tools | <img src="https://skillicons.dev/icons?i=git,github,postman,notion"/> |
 | 💻 Environment | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,mint"/> |
 | 🖥️ Operating Systems | <img src="https://skillicons.dev/icons?i=windows,linux"/> |
@@ -66,8 +67,8 @@
 |----------|------------|--------|
 | 🌿 **EcoStyle** | Landscaping Management Web Application | React • Node.js • MySQL |
 | 👓 **CrimsonEyes** | Mobile Application for Optical Services | Kotlin • Node.js • MySQL |
-| 💊 **FarmaCode** | Pharmaceutical Comparison Mobile App | Kotlin • Firebase |
-| 📦 **Pañol UDD** | Inventory & Warehouse Management System | React • Tailwind • Supabase |
+| 💊 **FarmaCode** | Pharmaceutical Comparison Mobile App | Kotlin • Jetpack Compose • Spring Boot • MySQL |
+| 📦 **Pañol UDD** | Inventory & Warehouse Management System | React • Tailwind • Supabase • Railway |
 
 <br>
 
@@ -99,9 +100,28 @@ Mobile application developed to manage optical services, products and patient in
 
 **Pharmaceutical Comparison Mobile Application**
 
-Mobile application designed to help users compare medications, consult pharmaceutical information and discover alternative drugs.
+Mobile application designed to help users compare medications, identify bioequivalent alternatives and reduce pharmaceutical expenses through OCR and Artificial Intelligence.
 
-**Tech Stack:** Kotlin • Firebase
+### Features
+
+- Medication Recognition via OCR
+- Bioequivalent Drug Comparison
+- Price Comparison
+- AI-powered Active Ingredient Identification
+- Real-time Pharmaceutical Information
+
+**Tech Stack**
+
+- Kotlin
+- Jetpack Compose
+- Java 21
+- Spring Boot 3
+- MySQL
+- Retrofit
+- Room Database
+- ML Kit OCR
+- Gemini API
+- Railway
 
 **Repository**
 
