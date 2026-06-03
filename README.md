@@ -201,7 +201,7 @@ Professional internship project focused on inventory control, stock management a
 
 ### Credits
 
-Credit: Anideout
+Credit: [Anideout](https://github.com/Anideout)
 
 **Last Edited:** 03/06/2026
 
