@@ -33,7 +33,11 @@
 
  Currently improving my knowledge in software architecture, backend development, system design and full-stack technologies.
 
- *"If you can imagine it, you can code it."*
+<div align="center">
+
+<b><i>If you can imagine it, you can code it.</i></b>
+
+</div>
 
 <br>
 
