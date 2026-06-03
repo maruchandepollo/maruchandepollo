@@ -65,14 +65,14 @@
 
 | Project | Description | Stack |
 |----------|------------|--------|
-| 🌿 **EcoStyle** | Landscaping Management Web Application | React • Node.js • MySQL |
-| 👓 **CrimsonEyes** | Mobile Application for Optical Services | Kotlin • Node.js • MySQL |
-| 💊 **FarmaCode** | Pharmaceutical Comparison Mobile App | Kotlin • Jetpack Compose • Spring Boot • MySQL |
-| 📦 **Pañol UDD** | Inventory & Warehouse Management System | React • Tailwind • Supabase • Railway |
+|  **EcoStyle** | Landscaping Management Web Application | React • Node.js • MySQL |
+|  **CrimsonEyes** | Mobile Application for Optical Services | Kotlin • Node.js • MySQL |
+|  **FarmaCode** | Pharmaceutical Comparison Mobile App | Kotlin • Jetpack Compose • Spring Boot • MySQL |
+|  **Pañol UDD** | Inventory & Warehouse Management System | React • Tailwind • Supabase • Railway |
 
 <br>
 
-## 🌿 EcoStyle
+##  EcoStyle
 
 **Landscaping Management Web Application**
 
@@ -84,7 +84,7 @@ A complete platform designed for landscaping businesses, allowing project manage
 
 ---
 
-## 👓 CrimsonEyes
+##  CrimsonEyes
 
 **Mobile Application for Optical Services**
 
@@ -96,7 +96,7 @@ Mobile application developed to manage optical services, products and patient in
 
 ---
 
-## 💊 FarmaCode
+##  FarmaCode
 
 **Pharmaceutical Comparison Mobile Application**
 
@@ -129,7 +129,7 @@ Mobile application designed to help users compare medications, identify bioequiv
 
 ---
 
-## 📦 Pañol UDD
+##  Pañol UDD
 
 **Inventory & Warehouse Management System**
 
