@@ -149,7 +149,7 @@ Professional internship project focused on inventory control, stock management a
 
 ---
 
-# 🎯 Current Focus
+#  Current Focus
 
 - Full Stack Development
 - Software Architecture
