@@ -16,21 +16,19 @@
 [![GitHub Stars](https://img.shields.io/github/stars/999developer?style=social)](https://github.com/999developer)
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1200&lines=Hey!+It's+999Dev!;Software+Developer;the+world+and+everything+in+it)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1200&lines=Hey!+It's+Sergio+Puebla+(999Dev)!;Full-Stack+%26+Mobile+Developer;If+you+can+imagine+it%2C+you+can+code+it.)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-#  About Me
+# 🚀 About Me
 
- Software Developer focused on building web and mobile applications.
-
- Computer Programming Analyst.
-
- Passionate about creating practical solutions that solve real business problems through technology.
-
- Currently improving my knowledge in software architecture, backend development, system design and full-stack technologies.
+- 💻 **Full-Stack & Mobile Developer** con experiencia en la construcción de soluciones web resilientes y aplicaciones móviles nativas.
+- 🎓 **Analista Programador** egresado de Duoc UC con Certificación Full-Stack (*React • Spring Boot • Kotlin*).
+- 🛠️ Especializado en **trazabilidad de datos, integraciones con IA/OCR, arquitecturas serverless y digitalización operativa**.
+- 📍 Basado en **Santiago, Chile**.
+- 🌐 **Portafolio Web:** [999dev.vercel.app](https://999dev.vercel.app)
 
 <br>
 
@@ -46,124 +44,90 @@
 
 ---
 
-#  Tech Stack
+# 🛠️ Tech Stack
 
 <div align="center">
 
-| Category | Technologies |
+| Categoría | Tecnologías |
 |-----------|-------------|
-|  Frontend | <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vite,ts"/> |
-|  Backend | <img src="https://skillicons.dev/icons?i=nodejs,java,kotlin,python,spring"/> |
-|  Database | <img src="https://skillicons.dev/icons?i=mysql"/> |
-|  Cloud & DevOps | <img src="https://skillicons.dev/icons?i=docker"/> |
-|  Tools | <img src="https://skillicons.dev/icons?i=git,github,postman,notion"/> |
-|  Environment | <img src="https://skillicons.dev/icons?i=vscode,androidstudio,bash,mint"/> |
-|  Operating Systems | <img src="https://skillicons.dev/icons?i=windows,linux"/> |
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,postgres,mysql"/> |
+| **Frontend Web** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,sass,bootstrap,html,css"/> |
+| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,supabase,deno"/> |
+| **Databases & ORM** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/> |
+| **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,git,github"/> |
+| **Tools & Testing** | <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,bash"/> |
 
 </div>
 
 ---
 
-#  Featured Projects
+# 🌟 Featured Projects
 
-| Project | Description | Stack |
-|----------|------------|--------|
-|  **EcoStyle** | Landscaping Management Web Application | React • Node.js • MySQL |
-|  **CrimsonEyes** | Mobile Application for Optical Services | Kotlin • Node.js • MySQL |
-|  **FarmaCode** | Pharmaceutical Comparison Mobile App | Kotlin • Jetpack Compose • Spring Boot • MySQL |
-|  **Pañol UDD** | Inventory & Warehouse Management System | React • Tailwind • Supabase • Railway |
+| Proyecto | Descripción | Stack Principal |
+|----------|------------|-----------------|
+| **Pañol UDD** | Sistema integral de trazabilidad e inventario para la UDD | React • TypeScript • Supabase • Edge Functions • Docker • Railway |
+| **OffBeat** | Plataforma musical, reproductor global y comunidad urbana (SSR) | React 19 • TanStack Start • Zustand • Supabase Realtime |
+| **FarmaCode** | Identificación y comparación de medicamentos mediante IA / OCR | Kotlin • Spring Boot • Claude API • ML Kit • MySQL |
+| **CrimsonEyes** | Ecosistema móvil y web para gestión de ópticas | Kotlin • Spring Boot • MySQL • QR Validation |
+| **EcoStyle** | Plataforma para la administración de empresas de paisajismo | React • Spring Boot • Spring Security • MySQL/MongoDB |
 
 <br>
 
-##  EcoStyle
+## 📦 Pañol UDD
+**Sistema de Control de Inventario y Trazabilidad Operativa** *(Práctica Profesional)*
 
-**Landscaping Management Web Application**
+Sistema web enfocado en la gestión operativa y trazabilidad total de stock en 3 estados (físico, en circulación y original) para la Universidad del Desarrollo (UDD).
 
-A complete platform designed for landscaping businesses, allowing project management, service administration and customer tracking.
-
-**Repositories**
-
-[Frontend Repository](https://github.com/999developer/front-ecostyle) • [Backend Repository](https://github.com/999developer/backend-ecostyle)
-
----
-
-##  CrimsonEyes
-
-**Mobile Application for Optical Services**
-
-Mobile application developed to manage optical services, products and patient information.
-
-**Repositories**
-
-[Frontend Repository](https://github.com/999developer/CrimsonEyes-App) • [Backend Repository](https://github.com/999developer/CrimsonEyes-backend)
+- **Características:** Autenticación RBAC respaldada por Row Level Security (RLS), notificaciones automáticas por e-mail mediante **Edge Functions (Deno)**, generación de comprobantes y exportación a Excel.
+- **Stack:** React 18, TypeScript, TanStack Router/Query, Tailwind CSS, shadcn/ui, PostgreSQL (Supabase), Docker, Railway.
+- 🔗 [Repositorio Pañol UDD](https://github.com/999developer/panoludd)
 
 ---
 
-##  FarmaCode
+## 🎵 OffBeat — Tu Cypher Digital
+**Plataforma Web SSR, Catálogo de Vinilos y Red Social Urbana**
 
-**Pharmaceutical Comparison Mobile Application**
+Aplicación full-stack optimizada para renderizado en servidor (SSR) con experiencia interactiva e instantánea.
 
-Mobile application designed to help users compare medications, identify bioequivalent alternatives and reduce pharmaceutical expenses through OCR and Artificial Intelligence.
-
-### Features
-
-- Medication Recognition via OCR
-- Bioequivalent Drug Comparison
-- Price Comparison
-- AI-powered Active Ingredient Identification
-- Real-time Pharmaceutical Information
-
-**Tech Stack**
-
-- Kotlin
-- Jetpack Compose
-- Java 21
-- Spring Boot 3
-- MySQL
-- Retrofit
-- Room Database
-- ML Kit OCR
-- Gemini API
-- Railway
-
-**Repository**
-
-[FarmaCode Repository](https://github.com/Anideout/FarmaCode)
+- **Características:** Reproductor global persistente sincronizado con iTunes API, sistema de foro, mensajería instantánea en tiempo real (Supabase Realtime) y panel administrativo con control RBAC.
+- **Stack:** React 19, TanStack Start (SSR), TanStack Router, Zustand, Supabase.
 
 ---
 
-##  Pañol UDD
+## 💊 FarmaCode
+**Asistente Inteligente y Comparador Bioequivalente de Medicamentos**
 
-**Inventory & Warehouse Management System**
+Aplicación Android nativa con backend desacoplado que ayuda a usuarios a escanear medicamentos y encontrar alternativas de menor costo.
 
-Professional internship project focused on inventory control, stock management and warehouse operations.
-
-### Features
-
-- Inventory Control
-- Stock Movements
-- User Management
-- Administrative Dashboard
-- Reports & Analytics
-
-**Repository**
-
-[Pañol UDD Repository](https://github.com/999developer/panoludd)
+- **Características:** Reconocimiento de texto en cajas de medicamentos mediante **ML Kit OCR**, integración con **Claude API** para análisis automatizado de bioequivalentes y componentes activos.
+- **Stack:** Kotlin, CameraX, Android SDK, Java 21, Spring Boot 3, MySQL, Railway.
+- 🔗 [Repositorio FarmaCode](https://github.com/Anideout/FarmaCode)
 
 ---
 
-#  Current Focus
+## 👓 CrimsonEyes
+**Ecosistema Móvil para Gestión de Ópticas**
 
-- Full Stack Development
-- Software Architecture
-- Backend Engineering
-- Inventory Management Systems
-- Mobile Applications
-- Scalable Web Solutions
+Aplicación Android nativa conectada a una API REST para administración de servicios de salud visual.
+
+- **Características:** Gestión de recetas ópticas digitales, catálogo de productos, carrito de compras integrado y sistema de validación vía código QR.
+- **Stack:** Kotlin, Android SDK, Java, Spring Boot, MySQL.
+- 🔗 [Frontend App](https://github.com/999developer/CrimsonEyes-App) • [Backend API](https://github.com/999developer/CrimsonEyes-backend)
 
 ---
 
-#  GitHub Statistics
+## 🌿 EcoStyle
+**Plataforma de Gestión para Espacios Verdes**
+
+Plataforma web desacoplada diseñada para la administración de servicios de paisajismo y proyectos ecológicos.
+
+- **Características:** Autenticación segura con Spring Security, Context API y persistencia híbrida.
+- **Stack:** React (Vite), Java, Spring Boot, Spring Security, MySQL, MongoDB.
+- 🔗 [Frontend Repositorio](https://github.com/999developer/front-ecostyle) • [Backend Repositorio](https://github.com/999developer/backend-ecostyle)
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
@@ -177,7 +141,7 @@ Professional internship project focused on inventory control, stock management a
 
 ---
 
-#  Contributions
+# 🤝 Contributions
 
 <div align="center">
 
@@ -187,13 +151,13 @@ Professional internship project focused on inventory control, stock management a
 
 ---
 
-#  Contact
+# 📬 Let's Connect!
 
 <div align="center">
 
 <a href="mailto:spueblah@outlook.cl"><img src="https://skillicons.dev/icons?i=gmail"/></a>
-<a href="https://instagram.com/krazy.diam0nd"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://www.linkedin.com/in/sergio-puebla-hauenstein-304aab39a/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://instagram.com/krazy.diam0nd"><img src="https://skillicons.dev/icons?i=instagram"/></a>
 <a href="https://discord.com/users/538560877155057665"><img src="https://skillicons.dev/icons?i=discord"/></a>
 
 </div>
@@ -202,10 +166,9 @@ Professional internship project focused on inventory control, stock management a
 
 <div align="center">
 
-### Credits
-
+### Credits & Collaborations
 Credit: [Anideout](https://github.com/Anideout)
 
-**Last Edited:** 03/06/2026
+**Last Updated:** July 2026
 
 </div>
