@@ -27,7 +27,6 @@
 - 💻 **Full-Stack & Mobile Developer** con experiencia en la construcción de soluciones web resilientes y aplicaciones móviles nativas.
 - 🎓 **Analista Programador** egresado de Duoc UC con Certificación Full-Stack (*React • Spring Boot • Kotlin*).
 - 🛠️ Especializado en **trazabilidad de datos, integraciones con IA/OCR, arquitecturas serverless y digitalización operativa**.
-- 📍 Basado en **Santiago, Chile**.
 - 🌐 **Portafolio Web:** [999dev.vercel.app](https://999dev.vercel.app)
 
 <br>
@@ -52,10 +51,11 @@
 |-----------|-------------|
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,postgres,mysql"/> |
 | **Frontend Web** | <img src="https://skillicons.dev/icons?i=react,vite,tailwind,sass,bootstrap,html,css"/> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/> |
 | **Backend & APIs** | <img src="https://skillicons.dev/icons?i=spring,nodejs,express,supabase,deno"/> |
 | **Databases & ORM** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb"/> |
 | **DevOps & Cloud** | <img src="https://skillicons.dev/icons?i=docker,git,github"/> |
-| **Tools & Testing** | <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,postman,bash"/> |
+| **Tools & Testing** | <img src="https://skillicons.dev/icons?i=vscode,idea,postman,bash"/> |
 
 </div>
 
@@ -89,8 +89,9 @@ Sistema web enfocado en la gestión operativa y trazabilidad total de stock en 3
 
 Aplicación full-stack optimizada para renderizado en servidor (SSR) con experiencia interactiva e instantánea.
 
-- **Características:** Reproductor global persistente sincronizado con iTunes API, sistema de foro, mensajería instantánea en tiempo real (Supabase Realtime) y panel administrativo con control RBAC.
+- **Características:** Reproductor global persistente synchronizado con iTunes API, sistema de foro, mensajería instantánea en tiempo real (Supabase Realtime) y panel administrativo con control RBAC.
 - **Stack:** React 19, TanStack Start (SSR), TanStack Router, Zustand, Supabase.
+- 🔗 [Sitio Web en Vivo (Live Demo)](https://offbeat-web.vercel.app/)
 
 ---
 
@@ -155,6 +156,9 @@ Plataforma web desacoplada diseñada para la administración de servicios de pai
 
 <div align="center">
 
+<a href="https://999dev.vercel.app/" target="_blank">
+  <img src="https://avatars.githubusercontent.com/u/166879059?v=4" width="48" height="48" alt="999Dev Portfolio" style="border-radius: 10px; vertical-align: middle;" />
+</a>
 <a href="mailto:spueblah@outlook.cl"><img src="https://skillicons.dev/icons?i=gmail"/></a>
 <a href="https://www.linkedin.com/in/sergio-puebla-hauenstein-304aab39a/"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
 <a href="https://instagram.com/krazy.diam0nd"><img src="https://skillicons.dev/icons?i=instagram"/></a>
