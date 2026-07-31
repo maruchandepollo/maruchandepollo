@@ -16,7 +16,7 @@
 [![GitHub Stars](https://img.shields.io/github/stars/999developer?style=social)](https://github.com/999developer)
 <br><br>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1200&lines=Hey!+It's+Sergio+Puebla+(999Dev)!;Full-Stack+%26+Mobile+Developer;If+you+can+imagine+it%2C+you+can+code+it.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&center=true&vCenter=true&width=750&height=70&duration=4000&pause=1200&lines=Hey!+It's+999Dev!;Software+Developer;The+world+and+everything+in+it.)](https://git.io/typing-svg)
 
 </div>
 
